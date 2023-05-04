@@ -1,1 +1,1 @@
-# This entails projects involving descriptive analysis
+# This involves projects that are for progress track and accountability for AI/ML
