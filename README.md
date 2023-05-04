@@ -1,1 +1,1 @@
-# This involves projects that are for progress track and accountability for AI/ML
+#The directory contains all ML/AI projects interning with Zummit Africa
